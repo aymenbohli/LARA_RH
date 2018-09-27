@@ -1,0 +1,29 @@
+.main-header {
+    height: 60px;
+    background-color: #13b9ef !important;
+    position: relative;
+    width: 100%;
+    top: 0px;
+    z-index: 1040;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.16);
+}
+.content-header {
+    height: 60px;
+    background-color: #ffffff !important;
+    position: relative;
+    width: 100%;
+    top: 0px;
+    z-index: 1040;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.16);
+
+}
+.skin-blue .main-header .navbar {
+
+    background: transparent !important;
+
+}
+.logo {
+
+    background: transparent !important;
+
+}
